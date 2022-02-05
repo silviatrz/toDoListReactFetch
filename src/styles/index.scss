@@ -11,3 +11,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background-color: #212529;
+}
+
+.strokeme {
+   
+    text-shadow: -1px -1px 0 #212529, 1px -1px 0 #212529, -1px 1px 0 #212529, 1px 1px 0 #212529;
+}
